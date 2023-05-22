@@ -1,0 +1,18 @@
+.write img{
+    margin-left: 150px;
+    width: 70vw;
+  height: 250px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+.forms{
+    margin-left: 120px;
+}
+
+.writeInput {
+    font-size: 30px;
+    border: none;
+    padding: 20px;
+    width: 70vw;
+    margin-bottom: 40px;
+  }
